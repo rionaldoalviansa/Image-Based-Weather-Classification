@@ -37,6 +37,7 @@ No | Model | Accuracy | Precision | Recall | F1-score |
 2	|LeNet	|0.84	|0.86	|0.84	|0.84
 3	|ResNet-50	|0.90	|0.92	|0.90	|0.90
 4	|ResNet-18	|0.88	|0.88	|0.88	|0.88
+
 From the table, it is evident that VGG-19 outperforms other models. Although it has fewer layers than ResNet-50, it manages to obtain a higher score in every single evaluation metric.
 
 CONCLUSION
